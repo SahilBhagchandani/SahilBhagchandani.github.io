@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07de1a37.chunk.css",
+    "main.js": "/static/js/main.aea4ef34.chunk.js",
+    "main.js.map": "/static/js/main.aea4ef34.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.884f2228.js",
+    "runtime-main.js.map": "/static/js/runtime-main.884f2228.js.map",
+    "static/js/2.af3187d9.chunk.js": "/static/js/2.af3187d9.chunk.js",
+    "static/js/2.af3187d9.chunk.js.map": "/static/js/2.af3187d9.chunk.js.map",
+    "static/css/3.f9898e9a.chunk.css": "/static/css/3.f9898e9a.chunk.css",
+    "static/js/3.68af6e52.chunk.js": "/static/js/3.68af6e52.chunk.js",
+    "static/js/3.68af6e52.chunk.js.map": "/static/js/3.68af6e52.chunk.js.map",
+    "static/css/4.f008a6a9.chunk.css": "/static/css/4.f008a6a9.chunk.css",
+    "static/js/4.fe08e6e1.chunk.js": "/static/js/4.fe08e6e1.chunk.js",
+    "static/js/4.fe08e6e1.chunk.js.map": "/static/js/4.fe08e6e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d093373505f5c51825ee843776594d18.js": "/precache-manifest.d093373505f5c51825ee843776594d18.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.f9898e9a.chunk.css.map": "/static/css/3.f9898e9a.chunk.css.map",
+    "static/css/4.f008a6a9.chunk.css.map": "/static/css/4.f008a6a9.chunk.css.map",
+    "static/css/main.07de1a37.chunk.css.map": "/static/css/main.07de1a37.chunk.css.map",
+    "static/js/2.af3187d9.chunk.js.LICENSE.txt": "/static/js/2.af3187d9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/mcsa.png": "/static/media/mcsa.7d885cb3.png",
+    "static/media/mcsd.png": "/static/media/mcsd.9b84ed55.png",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/Greeting.css": "/static/media/sahil_hi.8be5529e.JPG",
+    "static/media/sahil_pc.JPG": "/static/media/sahil_pc.3f157688.JPG",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.884f2228.js",
+    "static/js/2.af3187d9.chunk.js",
+    "static/css/main.07de1a37.chunk.css",
+    "static/js/main.aea4ef34.chunk.js"
+  ]
+}
